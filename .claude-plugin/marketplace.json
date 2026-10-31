@@ -1,0 +1,72 @@
+{
+  "name": "bk-han-free-skills",
+  "owner": {
+    "name": "BK Han",
+    "email": "bk@aihustlegeneration.com"
+  },
+  "metadata": {
+    "description": "Free AI agent skills (SKILL.md) by BK Han for solopreneurs: marketing, events, video, business workflows.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "bk-han-marketing-skills",
+      "description": "Marketing and growth skills by BK Han: Pre-Publish QA, Viral Research To Draft, X Viral Research, Cross-Platform Campaign Split, Newsletter Issue Draft, Newsletter Subscriber Growth, LinkedIn Growth And Community, Skool Community Growth, Lead And Feedback Form Builder",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/marketing/pre-publish-qa-by-bk-han",
+        "./skills/marketing/viral-research-to-draft-by-bk-han",
+        "./skills/marketing/x-viral-research-by-bk-han",
+        "./skills/marketing/cross-platform-campaign-split-by-bk-han",
+        "./skills/marketing/newsletter-issue-draft-by-bk-han",
+        "./skills/marketing/newsletter-subscriber-growth-by-bk-han",
+        "./skills/marketing/linkedin-growth-and-community-by-bk-han",
+        "./skills/marketing/skool-community-growth-by-bk-han",
+        "./skills/marketing/lead-and-feedback-form-builder-by-bk-han"
+      ]
+    },
+    {
+      "name": "bk-han-events-skills",
+      "description": "Events skills by BK Han: Event Promo From Luma, Luma Event Organiser Specialist, Eventbrite Specialist, Online Session Prep And Follow Up",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/events/event-promo-from-luma-by-bk-han",
+        "./skills/events/luma-event-organiser-specialist-by-bk-han",
+        "./skills/events/eventbrite-specialist-by-bk-han",
+        "./skills/events/online-session-prep-and-follow-up-by-bk-han"
+      ]
+    },
+    {
+      "name": "bk-han-video-skills",
+      "description": "Video skills by BK Han: Brief To Video Creator, Styled Visual Video Creator, Grok Imagine B-Roll Clip, Loom Video Repurpose",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/video/brief-to-video-creator-by-bk-han",
+        "./skills/video/styled-visual-video-creator-by-bk-han",
+        "./skills/video/grok-imagine-b-roll-clip-by-bk-han",
+        "./skills/video/loom-video-repurpose-by-bk-han"
+      ]
+    },
+    {
+      "name": "bk-han-app-dev-skills",
+      "description": "App development skills by BK Han: Live App QA Gate",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/app-dev/live-app-qa-gate-by-bk-han"
+      ]
+    },
+    {
+      "name": "bk-han-business-skills",
+      "description": "Business and leads skills by BK Han: Always-On Personal Agent Workflows",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/business/always-on-personal-agent-workflows-by-bk-han"
+      ]
+    }
+  ]
+}
